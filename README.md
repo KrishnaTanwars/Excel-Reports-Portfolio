@@ -20,6 +20,11 @@ This repository showcases my **Excel projects** demonstrating advanced and inter
 - Market and product performance analysis
 - Report design & optimization
 
+  **Project Links:**
+- Demo Video : https://youtu.be/IBeSoFjJ-mg
+- Live Reports : https://docs.google.com/spreadsheets/d/1mT98K3gRKt6tBy18vlEdRfXcpg7RrmbuNThFGtUX7No/edit?usp=sharing
+- LinkedIn Post : https://www.linkedin.com/posts/krishnatanwars_sales-customer-dashboard-in-excel-activity-7387763111493238784-2ezH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYd6qIB8ad7Dw_i1eRhB3iXtglA1SKFQX0
+
 ---
 
 ### 2️⃣ Financial Analysis
